@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "imageurl": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/avengers-end-game-et00090482-07-12-2018-06-50-21.jpg",
+    "title": "Avenger End Game",
+    "genre": "Action/Adventure/Thriller"
+  },
+  {
+    "id": "2",
+    "imageurl": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-ODIlICAzMGsgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00122532-lyukkgtkfl-portrait.jpg",
+    "title": "Venom: Let There Be Carnage",
+    "genre": "Action/Sci-Fi/Horrer/Thriller"
+  },
+  {
+    "id": "3",
+    "imageurl": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-ODIlICAzMWsgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00110039-mzvrfnuanm-portrait.jpg",
+    "title": "No Time To Die",
+    "genre": "Action/Adventure/Thriller"
+  },
+  {
+    "id": "4",
+    "imageurl": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-OTAlICA2MGsgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00122566-heynsdbkjp-portrait.jpg",
+    "title": "Shang-chi and the legend of ten rings",
+    "genre": "Action/Adventure/Fantasy"
+  },
+  {
+    "id": "5",
+    "imageurl": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-NzAlICA5ayB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00122455-lwtatstyvd-portrait.jpg",
+    "title": "The Conjuring: The Devil Make Me Do It",
+    "genre": "Horrer/Thriller"
+  },
+  {
+    "id": "6",
+    "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9D1ZGj3RxyEVCNtqEArMtdZyKOJzrtNl-7g&usqp=CAU",
+    "title": "ICC T20 - INDIA VS PAKISTAN",
+    "genre": "Sports"
+  }
+]
